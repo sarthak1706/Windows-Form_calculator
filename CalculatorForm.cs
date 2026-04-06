@@ -14,7 +14,7 @@ public class CalculatorForm : Form
     public CalculatorForm()
     {
         Text = "Calculator";
-        Size = new Size(320, 420);
+        Size = new Size(320, 450);
         FormBorderStyle = FormBorderStyle.FixedSingle;
         BackColor = Color.FromArgb(30, 30, 30);
 
