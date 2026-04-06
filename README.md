@@ -1,64 +1,46 @@
-# 🧮 Windows Forms Calculator
+# Calculator Windows Forms Application
 
-A simple and clean Calculator desktop application built with **C#** and **Windows Forms** on **.NET 8**.
+A simple calculator application built with Windows Forms in C#.
 
----
+## Features
 
-## 📸 Features
+- Basic arithmetic operations: addition, subtraction, multiplication, division
+- Decimal point support
+- Clear function
+- Error handling for division by zero
 
-| Button | Description |
-|--------|-------------|
-| `0-9` | Number input |
-| `+` `−` `×` `÷` | Basic arithmetic operations |
-| `=` | Calculate result |
-| `C` | Clear all |
-| `±` | Toggle positive/negative |
-| `%` | Convert to percentage |
-| `⌫` | Backspace (delete last digit) |
-| `.` | Decimal point |
+## Usage
 
-- Dark-themed UI
-- Orange operator buttons
-- Division by zero shows `Error`
+Run the application: `dotnet run --project Calculator`
 
----
+- Use the number buttons (0-9) to input numbers
+- Use the operator buttons (+, -, *, /) to select operations
+- Press `=` to calculate the result
+- Press `C` to clear the display and reset
 
-## 🛠️ Tech Stack
+## Building
 
-- **Language:** C#
-- **Framework:** .NET 8
-- **UI:** Windows Forms (WinForms)
-
----
-
-## 🚀 Getting Started
-
-### Prerequisites
-- [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)
-- Windows OS
-
-### Run the app
-
-```bash
-git clone https://github.com/sarthak1706/Dotnet-project.git
-cd Dotnet-project
-dotnet run
-```
-
----
-
-## 📁 Project Structure
+To build the project:
 
 ```
-├── Calculator.csproj     # Project configuration
-├── Program.cs            # Entry point
-├── CalculatorForm.cs     # Main form with UI and logic
-├── .gitignore            # Excludes bin/ obj/ folders
-└── README.md             # Project documentation
+dotnet build Calculator
 ```
 
----
+## Running
 
-## 📄 License
+To run the application:
 
-This project is open source and available under the [MIT License](LICENSE).
+```
+dotnet run --project Calculator
+```
+
+## Troubleshooting
+
+- **Application doesn't start:** Ensure you have .NET 8.0 SDK installed.
+- **Division by zero error:** The calculator displays `Error` when attempting to divide by zero.
+- **Build warnings:** The code has nullability warnings which are harmless and don't affect functionality.
+
+## Requirements
+
+- .NET 8.0 SDK
+- Windows OS (for Windows Forms)
