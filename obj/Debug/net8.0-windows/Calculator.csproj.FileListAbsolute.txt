@@ -1,0 +1,15 @@
+c:\Users\patel\OneDrive\Desktop\dotnet project\bin\Debug\net8.0-windows\Calculator.exe
+c:\Users\patel\OneDrive\Desktop\dotnet project\bin\Debug\net8.0-windows\Calculator.deps.json
+c:\Users\patel\OneDrive\Desktop\dotnet project\bin\Debug\net8.0-windows\Calculator.runtimeconfig.json
+c:\Users\patel\OneDrive\Desktop\dotnet project\bin\Debug\net8.0-windows\Calculator.dll
+c:\Users\patel\OneDrive\Desktop\dotnet project\bin\Debug\net8.0-windows\Calculator.pdb
+c:\Users\patel\OneDrive\Desktop\dotnet project\obj\Debug\net8.0-windows\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\patel\OneDrive\Desktop\dotnet project\obj\Debug\net8.0-windows\Calculator.AssemblyInfoInputs.cache
+c:\Users\patel\OneDrive\Desktop\dotnet project\obj\Debug\net8.0-windows\Calculator.AssemblyInfo.cs
+c:\Users\patel\OneDrive\Desktop\dotnet project\obj\Debug\net8.0-windows\Calculator.csproj.CoreCompileInputs.cache
+c:\Users\patel\OneDrive\Desktop\dotnet project\obj\Debug\net8.0-windows\Calculator.dll
+c:\Users\patel\OneDrive\Desktop\dotnet project\obj\Debug\net8.0-windows\refint\Calculator.dll
+c:\Users\patel\OneDrive\Desktop\dotnet project\obj\Debug\net8.0-windows\Calculator.pdb
+c:\Users\patel\OneDrive\Desktop\dotnet project\obj\Debug\net8.0-windows\Calculator.genruntimeconfig.cache
+c:\Users\patel\OneDrive\Desktop\dotnet project\obj\Debug\net8.0-windows\ref\Calculator.dll
+C:\Users\patel\OneDrive\Desktop\dotnet project\obj\Debug\net8.0-windows\Calculator.sourcelink.json
